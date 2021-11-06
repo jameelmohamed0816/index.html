@@ -1,6 +1,5 @@
-CREATED WITH INSTA BASED PORTFOLIO....
+# AUTOMATED PORTFOLIO GENERATOR
+Building an Application in Devops Style
 
-   INSTEAD A RESUME - INSTA PROFILE IS ENOUGH FOR A PORTFOLIO
-        
-        *AUTOMATED RESUME GENERATOR*
+App has been deployed in Elastic Beanstalk (AWS) in CI/CD Style.
         
